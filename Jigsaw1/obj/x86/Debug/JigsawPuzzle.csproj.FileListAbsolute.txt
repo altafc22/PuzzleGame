@@ -1,0 +1,28 @@
+C:\Users\lazulite\Desktop\C#\Jigsaw1\bin\Debug\OpenSourceGames.CSharpJigsawPuzzle.exe.config
+C:\Users\lazulite\Desktop\C#\Jigsaw1\bin\Debug\OpenSourceGames.CSharpJigsawPuzzle.exe
+C:\Users\lazulite\Desktop\C#\Jigsaw1\bin\Debug\OpenSourceGames.CSharpJigsawPuzzle.pdb
+C:\Users\lazulite\Desktop\C#\Jigsaw1\obj\x86\Debug\JigsawPuzzle.csprojAssemblyReference.cache
+C:\Users\lazulite\Desktop\C#\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.AboutBox.resources
+C:\Users\lazulite\Desktop\C#\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.MainForm.resources
+C:\Users\lazulite\Desktop\C#\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.Properties.Resources.resources
+C:\Users\lazulite\Desktop\C#\Jigsaw1\obj\x86\Debug\JigsawPuzzle.csproj.GenerateResource.cache
+C:\Users\lazulite\Desktop\C#\Jigsaw1\obj\x86\Debug\JigsawPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\lazulite\Desktop\C#\Jigsaw1\obj\x86\Debug\OpenSourceGames.CSharpJigsawPuzzle.exe
+C:\Users\lazulite\Desktop\C#\Jigsaw1\obj\x86\Debug\OpenSourceGames.CSharpJigsawPuzzle.pdb
+C:\Users\lazulite\Desktop\C#\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.StartForm.resources
+C:\Users\lazulite\Desktop\C#\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.GameScreen.resources
+C:\Users\lazulite\Desktop\C#\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.WinnerForm.resources
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\bin\Debug\OpenSourceGames.CSharpJigsawPuzzle.exe.config
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\bin\Debug\OpenSourceGames.CSharpJigsawPuzzle.exe
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\bin\Debug\OpenSourceGames.CSharpJigsawPuzzle.pdb
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\obj\x86\Debug\JigsawPuzzle.csprojAssemblyReference.cache
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.AboutBox.resources
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.GameScreen.resources
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.MainForm.resources
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.Properties.Resources.resources
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.StartForm.resources
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\obj\x86\Debug\MinThantSin.OpenSourceGames.WinnerForm.resources
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\obj\x86\Debug\JigsawPuzzle.csproj.GenerateResource.cache
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\obj\x86\Debug\JigsawPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\obj\x86\Debug\OpenSourceGames.CSharpJigsawPuzzle.exe
+C:\Users\lazulite\Desktop\FInal Puzzle\Jigsaw1\obj\x86\Debug\OpenSourceGames.CSharpJigsawPuzzle.pdb
